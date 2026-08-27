@@ -1,0 +1,2 @@
+
+                cout << "total: " << currentTotal << endl;
